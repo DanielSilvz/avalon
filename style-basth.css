@@ -1,0 +1,24 @@
+#descripcion-basth {
+    color: rgb(31, 46, 255);
+}
+body {
+    background-image: url("https://i.pinimg.com/originals/6d/78/71/6d78711d7c8438405ee8a5a50114f9ac.gif");
+    background-size:1400px;
+
+}
+#button-back {
+    background-color: transparent;
+    border-color: transparent;
+    color: rgb(46, 50, 252);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 50px;
+}
+img.basth-img {
+    width: 300px;
+    height: 500px;
+    float: left;
+    font-size: xx-large;  
+    
+}

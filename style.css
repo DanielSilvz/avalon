@@ -1,0 +1,382 @@
+body {
+    background-image: url("https://i.gifer.com/origin/23/23b0f76dd966cb2644b51dab97bdff68.gif");
+
+    background-color: black;
+    font-family: 'Silkscreen',cursive;
+    color: rgb(45, 247, 220);
+
+}
+
+header {
+    text-align:center;
+    color: rgb(62, 253, 244);
+        font-size:xx-large;
+    
+    }
+#descripcion {
+    font-size:xx-large;
+    text-align:center;
+    color: rgb(158, 9, 138);
+}
+#descripcion-2 {
+    color: rgb(63, 212, 231);
+    text-align:center;
+    
+}
+#descripcion-3 {
+    color: rgb(255, 255, 255);
+    text-align:center;
+    
+}
+
+img.kunizu-img {
+    width: 300px;
+    height: 500px;
+    float: left;
+    font-size: xx-large;  
+    
+}
+img.gelar-img {
+    width: 300px;
+    height: 500px;
+    float: left;
+    font-size: xx-large;  
+    
+}
+.kunizu-img {
+    font-size: xx-large;
+}
+
+
+#descripcion-kunizu {
+    color: rgb(255, 82, 140);
+}
+#uno-servant {
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(255, 82, 140);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+    background-image: url("https://i.gifer.com/origin/df/df3dc4d071bd97b96b40e584d015f9d1.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    font-family: 'Silkscreen',cursive;
+}
+#dos-servant {
+    background-color:rgb(0, 0, 0) ;
+    background-size:cover;
+    color: greenyellow;
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#dos2-servant {
+    background-image: url("https://th.bing.com/th/id/R.40b9a8f02caa8d33d6324ee67edba1c4?rik=lDH9V093bSM1uw&riu=http%3a%2f%2fvignette3.wikia.nocookie.net%2fdeathbattlefanon%2fimages%2f0%2f06%2fRUNNNNNNNNNNNNNNNNNNNN.gif%2frevision%2flatest%3fcb%3d20160722211303&ehk=mSusW8PuK7PogJ5JqZh0OHsXZJD9cyAzw3q9N6qX5Aw%3d&risl=&pid=ImgRaw&r=0");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    background-size:cover;
+    color: greenyellow;
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#tres-servant {
+    background-color:rgb(0, 0, 0) ;
+    background-image: url("https://cdna.artstation.com/p/assets/images/images/022/421/138/original/alessandro-evilblind-de-oliveira-alessandro-evilblind-de-oliveira-lightning-01.gif?1575381205");
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    color: yellow;
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+    
+}
+#cuatro-servant {
+    background-color:rgb(0, 0, 0) ;
+    background-image: url("https://64.media.tumblr.com/d998d1b3dc034596458dde0de68a1cfe/tumblr_pamn2fwYa31uxrf48o1_640.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(72, 72, 253);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#cuatro2-servant {
+    background-color:rgb(0, 0, 0) ;
+    background-image: url("https://c.tenor.com/8XfhFrwNfv0AAAAC/space-pixel-art.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(72, 72, 253);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#cuatro3-servant {
+    background-color:rgb(0, 0, 0) ;
+    background-image: url("https://c.tenor.com/ZvOCunW56s4AAAAd/rain-pixel.gif");
+    background-position: center;
+    background-repeat: no-repeat;
+    color: rgb(72, 72, 253);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+
+#cinco-servant {
+    background-color:rgb(0, 0, 0) ;
+    color: blue;
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#seis-servant {
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(29, 153, 255);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#siete-servant {
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(29, 255, 78);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#ocho-servant {
+    background-image: url("https://c.tenor.com/Aiv6aF6-XaYAAAAC/touhou-koishi.gif");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(0, 150, 32);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#ocho2-servant {
+    background-image: url("https://c.tenor.com/UmWmiibzlZMAAAAC/pixel-rain.gif");
+    background-position:left;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(0, 150, 32);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#ocho3-servant {
+    background-image: url("");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(0, 150, 32);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#ocho4-servant {
+    background-image: url("");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(0, 150, 32);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#nueve-servant {
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(241, 11, 11);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#nueve2-servant {
+    background-image: url("https://i.pinimg.com/originals/e5/2f/4d/e52f4d1b28bc691acaa36d163f216b96.gif");
+    background-position:top;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(241, 11, 11);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#diez-servant {
+    background-image: url("    https://64.media.tumblr.com/7c916c39643451079760fe4f031f9ad1/tumblr_p0uy6heCQK1ujca6vo1_640.gifv");
+    background-position:left;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(20, 255, 243);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#diez2-servant {
+    background-image: url("https://media.giphy.com/media/Qz5OFEwPwRprq/giphy.gif");
+    background-position:left;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(20, 255, 243);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#diez3-servant {
+    background-image: url("https://66.media.tumblr.com/492801b64a59a5797bfd56ad5848e389/tumblr_pg5u1eKMsC1rbjn8io1_500.gif");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(20, 255, 243);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#once-servant {
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(20, 255, 243);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#dose-servant {
+    
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(216, 20, 255);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#dose2-servant {
+    background-image: url("https://th.bing.com/th/id/R.9e40708b7f7b6d11ab3d4f8d7a03de15?rik=6kXdPbGcDXUHzw&riu=http%3a%2f%2f49.media.tumblr.com%2f5ee6dfe67f0b245ee5ca3445f97be960%2ftumblr_o0650ejtaK1qhmypro7_1280.gif&ehk=Cz9RNlx1SQGk43MJj0PRL%2fzwNCJduwloBZSXr1uil08%3d&risl=&pid=ImgRaw&r=0://c.tenor.com/UmWmiibzlZMAAAAC/pixel-rain.gif");
+    background-position:left;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(216, 20, 255);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+
+#trece-servant {
+    background-color:transparent ;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 1250px;
+    height: 100px;
+}
+#trece6-servant {
+    background-image: url("https://i.pinimg.com/originals/72/ca/20/72ca2020ac37eb889622274ee7f21744.gif");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(0, 167, 8);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#trece7-servant {
+    background-image: url("https://i.pinimg.com/originals/71/5d/a0/715da097b1d594241efeebd82c2b5cc0.gif");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#trece8-servant {
+    background-image: url("https://64.media.tumblr.com/2c0df0418658dbac3ea3dd3839536f52/2ddc0298b642e450-a9/s500x750/cb9d1f491227c4e6f5d6a9766fbb3dea8a8efd6a.gif");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(8, 4, 255);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#trece2-servant {
+    background-image: url("https://i.pinimg.com/originals/bc/24/b2/bc24b2dd54aeb8d2cb19593a6fef29f0.gif");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(245, 21, 96);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#trece3-servant {
+    background-image: url("https://cutewallpaper.org/21/pixel-art-background-gif/wg-WallpapersGeneral-%C5%A5-Thread-7262344.gif");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#trece4-servant {
+    background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/9bc27292880429.5e569ff84e4d0.gif");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(51, 246, 253);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#trece5-servant {
+    background-image: url("https://i.pinimg.com/originals/df/8c/9f/df8c9f054b824dfd80351e5271016320.gif");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(228, 104, 32);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 100px;
+}
+#trece-servant2 {
+    background-image: url("https://cdnb.artstation.com/p/assets/images/images/027/112/707/large/kevin-tran-sakura-deer.jpg?1590622819");
+    background-position:center;
+    background-repeat: no-repeat;
+    background-color:rgb(0, 0, 0) ;
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 1225px;
+    height: 100px;
+}
+#music {
+    text-align: center;
+}

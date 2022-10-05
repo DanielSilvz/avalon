@@ -1,0 +1,24 @@
+#descripcion-gelar {
+    color: yellow;
+}
+body {
+    background-image: url("https://i.pinimg.com/originals/65/3e/1a/653e1aee1def426fffbc3204147e23aa.gif");
+    background-size:1400px;
+
+}
+#button-back {
+    background-color: transparent;
+    border-color: transparent;
+    color: rgb(252, 248, 46);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 50px;
+}
+img.gelar-img {
+    width: 300px;
+    height: 500px;
+    float: left;
+    font-size: xx-large;  
+    
+}

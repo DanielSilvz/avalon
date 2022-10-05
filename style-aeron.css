@@ -1,0 +1,24 @@
+body{
+    background-image: url("https://th.bing.com/th/id/R.dda7bfed184e278cd7983581e9195c38?rik=a5X3%2fEuS0mklmg&pid=ImgRaw&r=0");
+        background-size:cover;
+}
+#descripcion-aeron {
+    text-align:left;
+    color: rgb(36, 155, 252);
+}
+#button-back {
+    background-color: transparent;
+    border-color: transparent;
+    color: rgb(42, 127, 255);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 50px;
+}
+img.aeron-img {
+    width: 300px;
+    height: 500px;
+    float: left;
+    font-size: xx-large;  
+    
+}

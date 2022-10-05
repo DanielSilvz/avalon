@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://c.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif");
+    background-size: cover;
+
+}
+#descripcion-lu {
+    text-align: left;
+    color: rgb(23, 240, 255);
+}
+#button-back {
+    background-color: transparent;
+    border-color: transparent;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 50px;
+}
+img.lu-img {
+    width: 300px;
+    height: 500px;
+    float: left;
+    font-size: xx-large;  
+    
+}

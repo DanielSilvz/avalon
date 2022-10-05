@@ -1,0 +1,25 @@
+body{
+    background-image: url("https://i.pinimg.com/originals/79/7f/6f/797f6fdc317817e8d37e961fa554114b.gif");
+        background-size:1800px;
+
+}
+#descripcion-toxic {
+    text-align: left;
+    color: rgb(79, 255, 167);
+}
+#button-back {
+    background-color: transparent;
+    border-color: transparent;
+    color: rgb(255, 255, 255);
+    font-size: xx-large;
+    font-family: 'Silkscreen',cursive;
+    width: 300px;
+    height: 50px;
+}
+img.toxic-img {
+    width: 300px;
+    height: 500px;
+    float: left;
+    font-size: xx-large;  
+    
+}
